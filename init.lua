@@ -1,0 +1,2 @@
+require("medzz")
+print("hello")
